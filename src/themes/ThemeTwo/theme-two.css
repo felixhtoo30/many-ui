@@ -1,0 +1,5 @@
+@config "tailwind.theme-two.config.js";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
